@@ -3,8 +3,6 @@
 /lib/
 .idea
 *.iml
-.project
-.classpath
 .gitattributes
 
 
