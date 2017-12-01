@@ -1,0 +1,10 @@
+/build/
+/data/
+/lib/
+.idea
+*.iml
+.project
+.classpath
+.gitattributes
+
+
